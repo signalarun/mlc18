@@ -2,7 +2,7 @@
 
 Machine learning for cyber security
 
-Required packages
+Required packages - Ubuntu 14.04
 
 sudo apt-get install libatlas-base-dev gfortran python-dev
 
