@@ -31,3 +31,9 @@ sudo pip install h5py
 sudo pip install jupyter
 
 sudo pip install ipython
+
+sudo pip install bhtsne
+
+sudo pip install plotly
+
+sudo pip install scikit-plot
