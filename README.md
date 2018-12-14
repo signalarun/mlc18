@@ -4,7 +4,7 @@
 
 Speakers
 
-[Vinayakumar](https://vinayakumarr.github.io)
+[Vinayakumar R](https://vinayakumarr.github.io),
 [Akarsh S](https://www.researchgate.net/profile/Akarsh_Soman)
 
 
