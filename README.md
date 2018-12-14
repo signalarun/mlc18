@@ -2,6 +2,9 @@
 
 (http://iiitmk.ac.in/mlc18/)[mlc18]
 
+Speakers
+
+(https://vinayakumarr.github.io)[Vinayakumar R]
 
 Required packages - Ubuntu 14.04
 
