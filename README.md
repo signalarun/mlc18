@@ -44,4 +44,4 @@ sudo pip install plotly
 
 sudo pip install scikit-plot
 
-The related publications for each use case is avilable (https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)[here]
+The related publications for each use case is avilable [here](https://scholar.google.co.in/citations?user=oIYw0LQAAAAJ&hl=en&oi=ao)
