@@ -4,7 +4,7 @@
 
 Speakers
 
-(https://vinayakumarr.github.io)[Vinayakumar R]
+(https://vinayakumarr.github.io)[Vinayakumar]
 
 Required packages - Ubuntu 14.04
 
