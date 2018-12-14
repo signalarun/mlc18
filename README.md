@@ -1,6 +1,7 @@
-# (http://iiitmk.ac.in/mlc18/)[mlc18]
+# Application of machine learning for cyber security
 
-Machine learning for cyber security
+(http://iiitmk.ac.in/mlc18/)[mlc18]
+
 
 Required packages - Ubuntu 14.04
 
