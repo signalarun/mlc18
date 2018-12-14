@@ -5,6 +5,8 @@
 Speakers
 
 [Vinayakumar](https://vinayakumarr.github.io)
+[Akarsh S](https://www.researchgate.net/profile/Akarsh_Soman)
+
 
 Required packages - Ubuntu 14.04
 
