@@ -1,10 +1,10 @@
 # Application of machine learning for cyber security
 
-(http://iiitmk.ac.in/mlc18/)[mlc18]
+[MLC'18](http://iiitmk.ac.in/mlc18/)]
 
 Speakers
 
-(https://vinayakumarr.github.io)[Vinayakumar]
+[Vinayakumar](https://vinayakumarr.github.io)
 
 Required packages - Ubuntu 14.04
 
